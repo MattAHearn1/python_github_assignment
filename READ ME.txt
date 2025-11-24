@@ -5,5 +5,7 @@ This program calculates how many hours an employee worked a day over the span of
 Run using 
 python app.py
 
+Example output:
 Enter hours worked: 40
 You worked 8 hours a day!
+
