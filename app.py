@@ -7,7 +7,7 @@ hours = float(hours)
 daily_hours = hours / 5
 
 #Final output
-print("You worked " + daily_hours + "hours a day")
+print(f"You worked {daily_hours} hours a day")
 
 #Error handling
 try:
