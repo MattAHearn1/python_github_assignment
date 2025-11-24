@@ -4,10 +4,10 @@ hours = input("Enter hours worked:")
 
 #Completes calculations
 hours = float(hours)
-daily_hours = hours / 7
+daily_hours = hours / 5
 
 #Final output
-print("You studied " + daily_hours + "hours a day")
+print("You worked " + daily_hours + "hours a day")
 
 #Error handling
 try:

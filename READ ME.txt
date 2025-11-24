@@ -1,0 +1,9 @@
+Hour a day tracker
+
+This program calculates how many hours an employee worked a day over the span of a week. It can be used to help in calculating salaries if a employee were to say, take a day off.
+
+Run using 
+python app.py
+
+Enter hours worked: 40
+You worked 8 hours a day!
